@@ -1,5 +1,5 @@
 <!-- 🔥 Banner principal -->
-![banner]([banner.png](https://thumbs.dreamstime.com/b/c%C3%B3digo-de-programa%C3%A7%C3%A3o-em-texto-vermelho-tela-vermelha-fonte-desenvolvimento-software-abstrato-184844597.jpg))
+![banner]([banner.png)
 # 🔴⚫ Projetos de Automação e OCR
 
 Me chamo **Ingrid**, estou aprendendo **automação e análise de sistemas**.  
