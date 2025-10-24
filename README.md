@@ -1,5 +1,5 @@
 <!-- 🔥 Banner principal -->
-![banner](banner.png)
+![banner](baner.png)
 # 🔴⚫ Projetos de Automação e OCR
 
 Me chamo **Ingrid**, estou aprendendo **automação e análise de sistemas**.  
