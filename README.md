@@ -25,7 +25,6 @@ Aqui você encontra meus projetos, experimentos e aprendizados — sempre com um
 | Projeto | Tecnologias | Descrição |
 |---------|------------|-----------|
 | **Cuidar+** <br> | Python, Flask, Firebase | Automação de dados acadêmicos com dashboard web. |
-| **Bot Web** <br> | Python, Selenium, Pandas | Automação de login e coleta de dados de sites. |
 
 ---
 
