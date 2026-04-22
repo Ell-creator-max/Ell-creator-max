@@ -14,7 +14,6 @@ Aqui você encontra meus projetos, experimentos e aprendizados — sempre com um
   <img src="https://img.shields.io/badge/C%23-%2300599C.svg?style=for-the-badge&logo=c-sharp&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/SQL-%2300f0ff.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCV-%23FF0000.svg?style=for-the-badge&logo=opencv&logoColor=white" />
 </p>
 
 ---
