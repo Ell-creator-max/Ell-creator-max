@@ -71,8 +71,8 @@ Todas. (Mas uma hora eu pego o jeito.)
 ## 📈 Estatísticas
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=radical&title_color=ff0000&icon_color=ff0000" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=radical&title_color=ff0000" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ell-creator-max&show_icons=true&theme=radical&title_color=ff0000&icon_color=ff0000" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ell-creator-max&layout=compact&theme=radical&title_color=ff0000" />
 </p>
 
 ---
